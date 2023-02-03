@@ -2,7 +2,7 @@
 
 - 🔭 Estou a procura da minha primeira expirência.
 - 🌱 Estudando Ciência da Computação
-- 📫 Contate-me no email: contatocarlos17b@gmail.com
+- 📫 Contate-me no email: carlosbernardino.dev@gmail.com
 
 <div align="left">
   <a href="https://github.com/carlossbernardino">
